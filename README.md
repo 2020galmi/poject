@@ -1,0 +1,2 @@
+syntaxe :
+$> ./sharkhanter file.pcapng
